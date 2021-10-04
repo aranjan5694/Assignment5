@@ -2,7 +2,7 @@
 
 # Vecta Corporation 
 
-This repo is the homepage for the Vecta Corportion made using simple **HTML5**.
+This repo is the homepage for the Vecta Corportion made using simple **HTML5**, **SASS**, **Gulp**.
 
 >To run the webpage locally
 
